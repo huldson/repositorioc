@@ -5,7 +5,7 @@
 
 
 
-void main(){
+void main(){// casa
 	char mora[120] = "casa linda sdfgh e feia";	
 	int i;
 	FILE *ponteiro;
